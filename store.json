@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    {
+      "id": "combinatorics",
+      "name": "组合数学",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "排列/组合/阶乘（页面 + AI 工具）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/combinatorics.py"
+    },
+    {
+      "id": "random_samples",
+      "name": "随机样本",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "生成随机样本并给均值/标准差（AI 工具）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/random_samples.py"
+    },
+    {
+      "id": "stats_guide",
+      "name": "统计检验向导",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "按研究问题推荐统计检验（AI 工具）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/stats_guide.py"
+    }
+  ]
+}
