@@ -87,6 +87,14 @@
       "author": "zoilzo",
       "description": "Ax²+Bx+C=0 的判别式/根(实或复)/顶点/对称轴（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/quadratic_solver.py"
+    },
+    {
+      "id": "number_base",
+      "name": "进制与位运算",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "十进制/二进制/八进制/十六进制互转，按位与或异或（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/number_base.py"
     }
   ]
 }
