@@ -55,6 +55,14 @@
       "author": "zoilzo",
       "description": "等差/等比通项与前 n 项和、无穷等比和（AI 工具）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/sequence_sum.py"
+    },
+    {
+      "id": "financial_calc",
+      "name": "理财与利息",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "单利/复利/等额本息月供/现值终值（AI 工具）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/financial_calc.py"
     }
   ]
 }
