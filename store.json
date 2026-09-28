@@ -103,6 +103,14 @@
       "author": "zoilzo",
       "description": "角度制 sin/cos/tan，直角三角形求边与角（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/trig_kit.py"
+    },
+    {
+      "id": "vector_geo",
+      "name": "向量几何",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "向量点积/叉积/模长/夹角/投影（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/vector_geo.py"
     }
   ]
 }
