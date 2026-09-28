@@ -111,6 +111,14 @@
       "author": "zoilzo",
       "description": "向量点积/叉积/模长/夹角/投影（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/vector_geo.py"
+    },
+    {
+      "id": "fraction_kit",
+      "name": "分数运算",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "分数加减乘除、约分、大小比较（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/fraction_kit.py"
     }
   ]
 }
