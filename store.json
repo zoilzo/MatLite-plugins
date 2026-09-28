@@ -119,6 +119,14 @@
       "author": "zoilzo",
       "description": "分数加减乘除、约分、大小比较（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/fraction_kit.py"
+    },
+    {
+      "id": "math_game",
+      "name": "心算挑战",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "随机心算题（加减/乘除/混合），可计时计分（工具 + 页面，适合课堂）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/math_game.py"
     }
   ]
 }
