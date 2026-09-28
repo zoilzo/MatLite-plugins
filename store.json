@@ -23,6 +23,14 @@
       "author": "zoilzo",
       "description": "按研究问题推荐统计检验（AI 工具）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/stats_guide.py"
+    },
+    {
+      "id": "number_theory",
+      "name": "数论基础",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "最大公约数/最小公倍数、质因数分解、素数判断、完全数（AI 工具）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/number_theory.py"
     }
   ]
 }
