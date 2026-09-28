@@ -39,6 +39,14 @@
       "author": "zoilzo",
       "description": "长度/质量/体积/温度单位互转（AI 工具）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/unit_converter.py"
+    },
+    {
+      "id": "geometry_kit",
+      "name": "几何计算",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "圆/球/圆柱/圆锥/长方体/三角形海伦公式（AI 工具）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/geometry_kit.py"
     }
   ]
 }
