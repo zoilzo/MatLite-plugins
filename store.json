@@ -127,6 +127,22 @@
       "author": "zoilzo",
       "description": "随机心算题（加减/乘除/混合），可计时计分（工具 + 页面，适合课堂）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/math_game.py"
+    },
+    {
+      "id": "probability_dist",
+      "name": "概率分布",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "正态/二项/泊松/指数/均匀/t 分布的均值、方差、CDF、分位数（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/probability_dist.py"
+    },
+    {
+      "id": "matrix_calc",
+      "name": "矩阵运算",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "矩阵加减乘/转置/行列式/逆/解方程组/特征值（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/matrix_calc.py"
     }
   ]
 }
