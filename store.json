@@ -79,6 +79,14 @@
       "author": "zoilzo",
       "description": "集合并/交/差/对称差/笛卡尔积/基数（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/sets_ops.py"
+    },
+    {
+      "id": "quadratic_solver",
+      "name": "一元二次方程",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "Ax²+Bx+C=0 的判别式/根(实或复)/顶点/对称轴（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/quadratic_solver.py"
     }
   ]
 }
