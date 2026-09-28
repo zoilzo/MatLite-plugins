@@ -63,6 +63,14 @@
       "author": "zoilzo",
       "description": "单利/复利/等额本息月供/现值终值（AI 工具）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/financial_calc.py"
+    },
+    {
+      "id": "percentage_tool",
+      "name": "百分比计算",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "占比百分数/变化率/加价百分比（AI 工具）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/percentage_tool.py"
     }
   ]
 }
