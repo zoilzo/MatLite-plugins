@@ -231,6 +231,14 @@
       "author": "zoilzo",
       "description": "级数收敛判定（比值/根值）、Taylor/Maclaurin 展开、递推求通项、裂项求和与 Fourier 系数（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/series_pro.py"
+    },
+    {
+      "id": "meta_analysis",
+      "name": "元分析",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "固定/随机效应合并 / 异质性 I2 / Q / tau2（工具 + 页面，循证医学）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/meta_analysis.py"
     }
   ]
 }
