@@ -167,6 +167,14 @@
       "author": "zoilzo",
       "description": "空间解析几何：异面/相交直线距离与交点、三点定平面、点到平面距离、平面夹角（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/geometry_3d.py"
+    },
+    {
+      "id": "finance_pro",
+      "name": "金融进阶",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "金融计算进阶：IRR 内部收益率、NPV 净现值、按揭摊还计划、债券定价与到期收益率 YTM（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/finance_pro.py"
     }
   ]
 }
