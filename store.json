@@ -167,6 +167,14 @@
       "author": "zoilzo",
       "description": "固定/随机效应合并 / 异质性 I2 / Q / tau2（工具 + 页面，循证医学）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/meta_analysis.py"
+    },
+    {
+      "id": "epidemiology_pro",
+      "name": "流行病学",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "流行病学建模：SIR/SEIR 传染模型、基本再生数 R0、群体免疫阈值、Logistic 种群增长、Hardy-Weinberg 平衡（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/epidemiology_pro.py"
     }
   ]
 }
