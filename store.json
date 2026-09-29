@@ -191,6 +191,14 @@
       "author": "zoilzo",
       "description": "图的 BFS/DFS、最短路（Dijkstra/Floyd）、最小生成树（Prim/Kruskal）、拓扑排序等（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/graph_theory.py"
+    },
+    {
+      "id": "optimization_pro",
+      "name": "数学优化",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "线性规划、背包、指派、梯度下降/黄金分割/拉格朗日乘子（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/optimization_pro.py"
     }
   ]
 }
