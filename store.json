@@ -223,6 +223,14 @@
       "author": "zoilzo",
       "description": "混淆矩阵/敏感度/特异度/Youden/ROC-AUC/kappa（工具 + 页面，临床与分类评价）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/diag_metrics.py"
+    },
+    {
+      "id": "series_pro",
+      "name": "级数与展开",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "级数收敛判定（比值/根值）、Taylor/Maclaurin 展开、递推求通项、裂项求和与 Fourier 系数（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/series_pro.py"
     }
   ]
 }
