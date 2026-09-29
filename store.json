@@ -143,6 +143,14 @@
       "author": "zoilzo",
       "description": "矩阵加减乘/转置/行列式/逆/解方程组/特征值（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/matrix_calc.py"
+    },
+    {
+      "id": "calculus_pro",
+      "name": "高等微积分",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "偏导数/梯度/全微分/泰勒展开/二重积分/隐函数（工具 + 页面，高等数学）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/calculus_pro.py"
     }
   ]
 }
