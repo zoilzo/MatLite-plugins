@@ -183,6 +183,14 @@
       "author": "zoilzo",
       "description": "物理公式计算：抛体运动（射程/最大高度/飞行时间）、匀变速运动、串并联电阻、功与能（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/physics_kit.py"
+    },
+    {
+      "id": "graph_theory",
+      "name": "图论",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "图的 BFS/DFS、最短路（Dijkstra/Floyd）、最小生成树（Prim/Kruskal）、拓扑排序等（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/graph_theory.py"
     }
   ]
 }
