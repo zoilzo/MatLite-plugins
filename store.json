@@ -207,6 +207,14 @@
       "author": "zoilzo",
       "description": "经典密码（Caesar/Vigenère/affine/Atbash）、模幂、RSA 与素性/欧拉函数（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/crypto_kit.py"
+    },
+    {
+      "id": "power_analysis",
+      "name": "统计功效与样本量",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "样本量/功效/效应量/按误差定 n（工具 + 页面，试验设计与教学）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/power_analysis.py"
     }
   ]
 }
