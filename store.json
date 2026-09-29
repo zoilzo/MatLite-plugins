@@ -151,6 +151,14 @@
       "author": "zoilzo",
       "description": "偏导数/梯度/全微分/泰勒展开/二重积分/隐函数（工具 + 页面，高等数学）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/calculus_pro.py"
+    },
+    {
+      "id": "linear_algebra_pro",
+      "name": "高等线性代数",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "矩阵分解/正交化/零空间/最小二乘（工具 + 页面，高等代数）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/linear_algebra_pro.py"
     }
   ]
 }
