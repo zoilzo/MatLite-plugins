@@ -199,6 +199,14 @@
       "author": "zoilzo",
       "description": "线性规划、背包、指派、梯度下降/黄金分割/拉格朗日乘子（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/optimization_pro.py"
+    },
+    {
+      "id": "crypto_kit",
+      "name": "密码学入门",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "经典密码（Caesar/Vigenère/affine/Atbash）、模幂、RSA 与素性/欧拉函数（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/crypto_kit.py"
     }
   ]
 }
