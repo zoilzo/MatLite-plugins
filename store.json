@@ -215,6 +215,14 @@
       "author": "zoilzo",
       "description": "样本量/功效/效应量/按误差定 n（工具 + 页面，试验设计与教学）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/power_analysis.py"
+    },
+    {
+      "id": "diag_metrics",
+      "name": "诊断试验评价",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "混淆矩阵/敏感度/特异度/Youden/ROC-AUC/kappa（工具 + 页面，临床与分类评价）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/diag_metrics.py"
     }
   ]
 }
