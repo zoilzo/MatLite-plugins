@@ -9,14 +9,6 @@
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/combinatorics.py"
     },
     {
-      "id": "random_samples",
-      "name": "随机样本",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "生成随机样本并给均值/标准差（AI 工具）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/random_samples.py"
-    },
-    {
       "id": "stats_guide",
       "name": "统计检验向导",
       "version": "1.0",
@@ -33,28 +25,12 @@
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/number_theory.py"
     },
     {
-      "id": "unit_converter",
-      "name": "单位换算",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "长度/质量/体积/温度单位互转（AI 工具）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/unit_converter.py"
-    },
-    {
       "id": "geometry_kit",
       "name": "几何计算",
       "version": "1.0",
       "author": "zoilzo",
       "description": "圆/球/圆柱/圆锥/长方体/三角形海伦公式（AI 工具）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/geometry_kit.py"
-    },
-    {
-      "id": "sequence_sum",
-      "name": "数列与级数",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "等差/等比通项与前 n 项和、无穷等比和（AI 工具）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/sequence_sum.py"
     },
     {
       "id": "financial_calc",
@@ -65,60 +41,12 @@
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/financial_calc.py"
     },
     {
-      "id": "percentage_tool",
-      "name": "百分比计算",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "占比百分数/变化率/加价百分比（AI 工具）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/percentage_tool.py"
-    },
-    {
-      "id": "sets_ops",
-      "name": "集合运算",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "集合并/交/差/对称差/笛卡尔积/基数（工具 + 页面）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/sets_ops.py"
-    },
-    {
-      "id": "quadratic_solver",
-      "name": "一元二次方程",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "Ax²+Bx+C=0 的判别式/根(实或复)/顶点/对称轴（工具 + 页面）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/quadratic_solver.py"
-    },
-    {
-      "id": "number_base",
-      "name": "进制与位运算",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "十进制/二进制/八进制/十六进制互转，按位与或异或（工具 + 页面）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/number_base.py"
-    },
-    {
-      "id": "trig_kit",
-      "name": "三角函数",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "角度制 sin/cos/tan，直角三角形求边与角（工具 + 页面）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/trig_kit.py"
-    },
-    {
       "id": "vector_geo",
       "name": "向量几何",
       "version": "1.0",
       "author": "zoilzo",
       "description": "向量点积/叉积/模长/夹角/投影（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/vector_geo.py"
-    },
-    {
-      "id": "fraction_kit",
-      "name": "分数运算",
-      "version": "1.0",
-      "author": "zoilzo",
-      "description": "分数加减乘除、约分、大小比较（工具 + 页面）",
-      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/fraction_kit.py"
     },
     {
       "id": "math_game",
