@@ -175,6 +175,14 @@
       "author": "zoilzo",
       "description": "金融计算进阶：IRR 内部收益率、NPV 净现值、按揭摊还计划、债券定价与到期收益率 YTM（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/finance_pro.py"
+    },
+    {
+      "id": "physics_kit",
+      "name": "物理公式",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "物理公式计算：抛体运动（射程/最大高度/飞行时间）、匀变速运动、串并联电阻、功与能（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/physics_kit.py"
     }
   ]
 }
