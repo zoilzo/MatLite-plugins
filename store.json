@@ -159,6 +159,14 @@
       "author": "zoilzo",
       "description": "矩阵分解/正交化/零空间/最小二乘（工具 + 页面，高等代数）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/linear_algebra_pro.py"
+    },
+    {
+      "id": "geometry_3d",
+      "name": "空间几何",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "空间解析几何：异面/相交直线距离与交点、三点定平面、点到平面距离、平面夹角（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/geometry_3d.py"
     }
   ]
 }
