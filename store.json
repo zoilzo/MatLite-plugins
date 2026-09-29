@@ -175,6 +175,22 @@
       "author": "zoilzo",
       "description": "流行病学建模：SIR/SEIR 传染模型、基本再生数 R0、群体免疫阈值、Logistic 种群增长、Hardy-Weinberg 平衡（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/epidemiology_pro.py"
+    },
+    {
+      "id": "regression_diagnostics",
+      "name": "回归诊断",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "多重共线性 VIF / Durbin-Watson / Breusch-Pagan / 残差正态性 / Cook 距离（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/regression_diagnostics.py"
+    },
+    {
+      "id": "survey_scale",
+      "name": "问卷信效度",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "Cronbach α / 分半信度 / KMO+Bartlett / 题项分析 / 反向题计分（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/survey_scale.py"
     }
   ]
 }
