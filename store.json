@@ -231,6 +231,14 @@
       "author": "zoilzo",
       "description": "博弈论与决策：纳什均衡（纯策略/混合策略）、零和博弈最大最小、决策树期望值、期望效用、社会福利（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/game_theory.py"
+    },
+    {
+      "id": "data_mining",
+      "name": "数据挖掘",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "Apriori 频繁项集/关联规则、PCA 载荷、异常检测、聚类质量（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/data_mining.py"
     }
   ]
 }
