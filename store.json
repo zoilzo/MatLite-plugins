@@ -263,6 +263,14 @@
       "author": "zoilzo",
       "description": "M/M/1、M/M/c、M/D/1 排队指标、Erlang-C 等待概率、利特尔定律（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/queuing_models.py"
+    },
+    {
+      "id": "information_theory",
+      "name": "信息论",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "香农熵/二元熵、KL 散度、互信息、交叉熵（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/information_theory.py"
     }
   ]
 }
