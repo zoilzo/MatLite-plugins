@@ -207,6 +207,22 @@
       "author": "zoilzo",
       "description": "度/特征向量中心性、PageRank、社区发现、链路预测（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/network_metrics.py"
+    },
+    {
+      "id": "boolean_sets",
+      "name": "离散数学基础",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "命题逻辑真值表 / 集合交并补·德摩根 / 逻辑门 AND·OR·NOT·NAND·XOR（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/boolean_sets.py"
+    },
+    {
+      "id": "quality_spc",
+      "name": "质量管理统计",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "X̄-R 控制图界限 / 过程能力 Cp·Cpk / 缺陷率 DPU·DPMO / Pareto（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/quality_spc.py"
     }
   ]
 }
