@@ -271,6 +271,22 @@
       "author": "zoilzo",
       "description": "香农熵/二元熵、KL 散度、互信息、交叉熵（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/information_theory.py"
+    },
+    {
+      "id": "markov_chain",
+      "name": "马尔可夫链",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "转移矩阵 n 步 / 稳态分布 / 吸收链期望步数 / 概率迭代（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/markov_chain.py"
+    },
+    {
+      "id": "operations_research",
+      "name": "运筹学基础",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "运输问题(最小费用) / 指派问题(匈牙利法) / 线性规划(单纯形)（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/operations_research.py"
     }
   ]
 }
