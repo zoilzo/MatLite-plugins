@@ -223,6 +223,14 @@
       "author": "zoilzo",
       "description": "X̄-R 控制图界限 / 过程能力 Cp·Cpk / 缺陷率 DPU·DPMO / Pareto（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/quality_spc.py"
+    },
+    {
+      "id": "game_theory",
+      "name": "博弈论",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "博弈论与决策：纳什均衡（纯策略/混合策略）、零和博弈最大最小、决策树期望值、期望效用、社会福利（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/game_theory.py"
     }
   ]
 }
