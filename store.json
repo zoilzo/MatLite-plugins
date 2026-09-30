@@ -239,6 +239,14 @@
       "author": "zoilzo",
       "description": "Apriori 频繁项集/关联规则、PCA 载荷、异常检测、聚类质量（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/data_mining.py"
+    },
+    {
+      "id": "options_risk",
+      "name": "金融工程与风险",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "Black-Scholes 期权定价/希腊字母、隐含波动率、债券久期凸性、蒙特卡洛 VaR（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/options_risk.py"
     }
   ]
 }
