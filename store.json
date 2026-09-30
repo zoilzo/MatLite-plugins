@@ -199,6 +199,14 @@
       "author": "zoilzo",
       "description": "信号/图像处理：FFT 频谱分析、数字低通/高通滤波、一维卷积、平滑去噪、Sobel 边缘检测（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/signal_processing.py"
+    },
+    {
+      "id": "epi_models",
+      "name": "流行病学模型",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "SIR/SEIR 传染病模型、基本再生数 R0、Logistic 种群增长、哈代-温伯格平衡（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/epi_models.py"
     }
   ]
 }
