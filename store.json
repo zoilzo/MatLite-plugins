@@ -207,6 +207,14 @@
       "author": "zoilzo",
       "description": "SIR/SEIR 传染病模型、基本再生数 R0、Logistic 种群增长、哈代-温伯格平衡（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/epi_models.py"
+    },
+    {
+      "id": "network_metrics",
+      "name": "网络分析",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "度/特征向量中心性、PageRank、社区发现、链路预测（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/network_metrics.py"
     }
   ]
 }
