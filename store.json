@@ -303,6 +303,14 @@
       "author": "zoilzo",
       "description": "信息论与编码：香农熵/归一化熵、互信息、Huffman 无损压缩、Hamming(7,4)纠错码、二元对称信道容量（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/info_theory.py"
+    },
+    {
+      "id": "population_genetics",
+      "name": "群体遗传学",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "群体遗传学：Hardy-Weinberg 平衡卡方检验、等位基因/基因型频率、近交系数、基因型分布、Wright-Fisher 遗传漂变（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/population_genetics.py"
     }
   ]
 }
