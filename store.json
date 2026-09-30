@@ -247,6 +247,14 @@
       "author": "zoilzo",
       "description": "Black-Scholes 期权定价/希腊字母、隐含波动率、债券久期凸性、蒙特卡洛 VaR（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/options_risk.py"
+    },
+    {
+      "id": "econometric_modeling",
+      "name": "经济计量",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "经济计量建模：ADF 单位根检验、Engle-Granger 协整、差分/平稳化、Chow 结构断点、Granger 因果检验（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/econometric_modeling.py"
     }
   ]
 }
