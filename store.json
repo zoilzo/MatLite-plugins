@@ -191,6 +191,14 @@
       "author": "zoilzo",
       "description": "Cronbach α / 分半信度 / KMO+Bartlett / 题项分析 / 反向题计分（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/survey_scale.py"
+    },
+    {
+      "id": "signal_processing",
+      "name": "信号处理",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "信号/图像处理：FFT 频谱分析、数字低通/高通滤波、一维卷积、平滑去噪、Sobel 边缘检测（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/signal_processing.py"
     }
   ]
 }
