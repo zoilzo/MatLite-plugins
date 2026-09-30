@@ -255,6 +255,14 @@
       "author": "zoilzo",
       "description": "经济计量建模：ADF 单位根检验、Engle-Granger 协整、差分/平稳化、Chow 结构断点、Granger 因果检验（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/econometric_modeling.py"
+    },
+    {
+      "id": "queuing_models",
+      "name": "排队论",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "M/M/1、M/M/c、M/D/1 排队指标、Erlang-C 等待概率、利特尔定律（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/queuing_models.py"
     }
   ]
 }
