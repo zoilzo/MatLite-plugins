@@ -295,6 +295,14 @@
       "author": "zoilzo",
       "description": "日期差/年龄/周几/闰年/日期加减/当前时间（工具 + 页面）",
       "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/date_calc.py"
+    },
+    {
+      "id": "info_theory",
+      "name": "信息论与编码",
+      "version": "1.0",
+      "author": "zoilzo",
+      "description": "信息论与编码：香农熵/归一化熵、互信息、Huffman 无损压缩、Hamming(7,4)纠错码、二元对称信道容量（工具 + 页面）",
+      "download": "https://raw.githubusercontent.com/zoilzo/MatLite-plugins/main/info_theory.py"
     }
   ]
 }
